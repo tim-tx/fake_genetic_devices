@@ -1,0 +1,3 @@
+[submodule "FPvisualization"]
+	path = FPvisualization
+	url = https://github.com/kthorn/FPvisualization.git
